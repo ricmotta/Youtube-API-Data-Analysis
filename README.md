@@ -12,8 +12,8 @@ visa fornecer informações sobre o estado do campo e ajudar a identificar oport
 
 Para executar este projeto, você precisará ter o seguinte instalado em seu computador:
 
--Jupyter Notebook, JupyterLab ou utilizar algum serviço na nuvem como o Google Colab
--Python 3.6 ou posterior
+- Jupyter Notebook, JupyterLab ou utilizar algum serviço na nuvem como o Google Colab
+- Python 3.6 ou posterior
 - As seguintes bibliotecas Python:
     - pandas
     - numpy
