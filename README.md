@@ -1,6 +1,6 @@
 README
 
-# Projeto de Ciência de Dados da API do YouTube
+# Ciência de Dados no YouTube: Tendências, Insights e Oportunidades
 
 Este projeto é uma análise de dados dos principais canais da área de ciência de dados e análise de dados no Youtube. O projeto usa a API do YouTube para coletar
 dados sobre os canais mais populares da área, incluindo contagem de inscritos, contagem de vídeos e média de visualizações por vídeo.
